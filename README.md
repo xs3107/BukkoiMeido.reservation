@@ -1,1 +1,1 @@
-# BukkoiMeido.reservation
+# Bukkoi.Meido.reservation
